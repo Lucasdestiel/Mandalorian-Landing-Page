@@ -1,2 +1,2 @@
 # Mandalorian-Landing-Page
-landing page simple de serviços mandalorianos, utilizando Html, Css e Javascript totalmente responsivo
+landing page simples de serviços mandalorianos(tema : the madalorian), utilizando Html, Css e Javascript - totalmente responsivo.
